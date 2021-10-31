@@ -1,5 +1,4 @@
 certifi==2021.10.8
-click @ file:///D:/bld/click_1634002605485/work
 colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
 dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
 DateTime==4.3
